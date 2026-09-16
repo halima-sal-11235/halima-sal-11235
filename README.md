@@ -2,7 +2,8 @@
 
 ### Computer Science student 
 
-- 🔭 I'm currently working on my portfolio
+- 🔭 I just complete my porfolio
+- I am working on a new website
 
 - 
 <h3 align="left">Connect with me:</h3>
